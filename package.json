@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A Flutter portfolio app for Harsha Vardhan",
   "scripts": {
-    "build": "flutter build web --release",
     "dev": "flutter run -d web-server --web-port 3000",
     "test": "flutter test",
     "analyze": "flutter analyze"
